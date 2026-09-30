@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://www.petaura-veterinary.in/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.petaura-veterinary.in/assets/images/hero-veterinarian.jpg</image:loc>
+      <image:title>PetAura Veterinary Centre - Advanced Surgery and Compassionate Care</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.petaura-veterinary.in/services.html</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.petaura-veterinary.in/assets/images/surgery-suite.jpg</image:loc>
+      <image:title>State-of-the-Art Veterinary Surgical Operating Suite</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.petaura-veterinary.in/second-opinion.html</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.petaura-veterinary.in/assets/images/chief-veterinarian.jpg</image:loc>
+      <image:title>Dr. Rajesh V. Sharma - Online Veterinary Second Opinion &amp; Teleconsultation</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.petaura-veterinary.in/at-home.html</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.petaura-veterinary.in/assets/images/grooming-spa.jpg</image:loc>
+      <image:title>Gentle At-Home Grooming and Doorstep Vet Care</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.petaura-veterinary.in/about.html</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.petaura-veterinary.in/locations.html</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.petaura-veterinary.in/booking.html</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+</urlset>
